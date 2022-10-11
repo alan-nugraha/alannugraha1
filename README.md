@@ -5,4 +5,4 @@
 - 👀 I’m Mobile Developer focused on React Native
 - 🌱 I’m currently learning Mobile Development
 
-(https://holopin.io/api/user/board?user=alannugraha1)](https://holopin.io/@alannugraha1)
+[(https://holopin.io/api/user/board?user=alannugraha1)](https://holopin.io/@alannugraha1)
